@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Art Space Art</string>
+    <string name="mona_lisa_description">Mona Lisa</string>
+    <string name="sunflowers_description">Sunflowers</string>
+    <string name="the_kiss_description">The Kiss</string>
+    <string name="the_milkmaid_description">The Milkmaid</string>
+    <string name="jan_vermeer">Jan Vermeer</string>
+    <string name="milkmaid_year">" (1658)"</string>
+    <string name="the_milkmaid">The Milkmaid</string>
 </resources>
